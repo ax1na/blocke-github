@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(255, 206, 240);
+}
+
+
+.icono{
+    width: 200px;
+    margin: 10px;
+}
+
+.bloque-superior{
+
+    width: 1000px;
+
+    margin: 0 auto;
+    background-color: rgb(174, 202, 255);
+
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+
+.bloque-medio{
+    width: 1000px;
+    margin: 0 auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(224, 205, 253);
+}
+
+
+.bloque-inferior{
+    width: 1000px;
+    margin: 0 auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(240, 185, 217);
+}
+
